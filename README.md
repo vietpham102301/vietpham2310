@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viet Pham
 - 👀 I’m interested in software development and AI tech
-- 🌱 I’m currently learning Bachelor of Information Technology
+- 🌱 I’m currently studying to become an engineer in Information Technology
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me https://www.facebook.com/vietpham231/
 
